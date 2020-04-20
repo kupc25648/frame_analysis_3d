@@ -17,3 +17,5 @@ Users can create input data of frame structures, loads and restrains in "frame_e
 Where users can get help with your project?
 
 Please feel free to contact me at kupc25648@hotmail.com
+
+<src img=frame.obj>
