@@ -17,14 +17,3 @@ Users can create input data of frame structures, loads and restrains in "frame_e
 Where users can get help with your project?
 
 Please feel free to contact me at kupc25648@hotmail.com
-
-<script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
-<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
-<a-scene embedded arjs>
-    <a-entity
-      obj-model="obj: url(https://github.com/kupc25648/frame_analysis_3d/blob/master/Frame.obj)"
-      rotation="0 0 0"
-      scale="0.1 0.1 0.1"
-    >
-    </a-entity>
-</a-scene>
